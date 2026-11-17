@@ -1,0 +1,37 @@
+{
+  "_help": "keyword = comment/DM mein ye shabd ho to trigger. dm = commenter ko jaane wala DM (yahan apna direct link daal sakte ho). public_replies = comment par public reply, baari-baari se.",
+  "rules": [
+    {
+      "keyword": "EDITOR",
+      "dm": "Hey! 🎬 Here are your 3 editor prompts. Tap the link in my bio and type EDITOR on the page to unlock them.",
+      "public_replies": [
+        "Sent you a DM 📩 Check your inbox!",
+        "Done! 🎬 Prompts are in your DMs."
+      ]
+    },
+    {
+      "keyword": "TOKENS",
+      "dm": "Here you go 🔥 Tap the link in my bio and type TOKENS on the page to get the link + promo code.",
+      "public_replies": [
+        "Check your DMs 🔥 Link + code sent!",
+        "Sent! 📩 Look in your inbox."
+      ]
+    },
+    {
+      "keyword": "ULTRA",
+      "dm": "Got you 🙌 Tap the link in my bio and type ULTRA on the page for the official link.",
+      "public_replies": [
+        "DM sent 🙌 Check your inbox!",
+        "Sent the official link to your DMs 📩"
+      ]
+    },
+    {
+      "keyword": "KIT",
+      "dm": "Thanks for the interest! 🙌 You're on the early-access list for the KIT. I'll message you here as soon as it's ready.",
+      "public_replies": [
+        "Thanks! 🙌 Check your DMs for early access.",
+        "Love it! Sent you the early-access details 📩"
+      ]
+    }
+  ]
+}

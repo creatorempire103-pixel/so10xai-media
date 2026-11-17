@@ -1,0 +1,5 @@
+kind: wasmer.io/App.v0
+name: so10xai-auto-dm
+package: .
+# Secrets (IG_ACCESS_TOKEN, IG_USER_ID, IG_APP_SECRET, VERIFY_TOKEN) yahan MAT likho.
+# Unhe `wasmer app secrets create --from-file=.env` ya dashboard > Settings > Environment Vars se set karo.
